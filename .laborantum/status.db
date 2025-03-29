@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 136,
-                "correct": 120.67605610561056
+                "correct": 132.67605610561057
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/2. Calculus/config.yml",
             "status": {
                 "total": 73,
-                "correct": 59.041666666666664
+                "correct": 71.04166666666667
             }
         },
         {
@@ -46,7 +46,7 @@
             "path": "/texts/course/2. Calculus/2. Integrals/config.yml",
             "status": {
                 "total": 25,
-                "correct": 11.666666666666666
+                "correct": 23.666666666666668
             }
         },
         {
@@ -18105,7 +18105,7 @@
         {
             "path": "/texts/course/2. Calculus/2. Integrals/6. Integrals Practice/config.yml",
             "status": {
-                "correct": 6.666666666666666,
+                "correct": 18.666666666666668,
                 "total": 20,
                 "testStatus": [
                     {
@@ -18160,103 +18160,103 @@
                     },
                     {
                         "name": "root -> squares -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 12.4177777777778,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> squares -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 284.12481902149193,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> squares -> 2",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.18529225843209218,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> squares -> 3",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4017670598.3977413,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.00014495849609375,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> squares -> 4",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.4129789516558837,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> squares -> 5",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.12823841483227083,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> squares -> 6",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 9.343005706106851,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> squares -> 7",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 60.00737734209849,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> squares -> 8",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.343116416967582,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> squares -> 9",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 16.328160637016307,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> trapezoids -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 12.4177777777778,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> trapezoids -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 284.12481902149193,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> trapezoids -> 2",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.18529225843209218,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> trapezoids -> 3",
                         "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4017670598.3977413,'\n                    that is larger than eps (0.0001)"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.00014495849609375,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> trapezoids -> 4",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.4129789516558837,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> trapezoids -> 5",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.12823841483227083,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> trapezoids -> 6",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 9.343005706106851,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> trapezoids -> 7",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 60.00737734209849,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> trapezoids -> 8",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.343116416967582,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> trapezoids -> 9",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 16.328160637016307,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     }
                 ]
             }
